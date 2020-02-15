@@ -2,6 +2,7 @@ package lesson02;
 
 /**
  * Version 2
+ * output the result string as a string
  */
 public class Mystring2 {
     public void eachNth2(String a, int n) {

@@ -4,6 +4,7 @@ import com.sun.org.apache.xpath.internal.SourceTree;
 
 /**
  * Version 1
+ * output the result string as an array
  */
 public class Mystring {
     public void eachNth(String a, int n) {
