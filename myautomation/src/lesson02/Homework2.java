@@ -8,6 +8,7 @@ public class Homework2 {
         Mystring2 str1 = new Mystring2();
 
         String s1 = "ABCDEFG";
+        //String s1 = "";
         str1.eachNth2(s1, 2);
     }
 }
